@@ -1,2 +1,2 @@
 # IR-BOT
-Code for Ben and Oli's robot.
+Code for Oliver and Bens robot.
